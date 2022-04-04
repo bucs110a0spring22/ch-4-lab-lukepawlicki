@@ -1,25 +1,23 @@
 #### CS 110
-# Chapter 4 - Lab - Functions
-
-### [Assignment Description](https://docs.google.com/document/d/1V20D_upUX4MO8YmskKlRB25Yu2pCEv3-h8z4EAfrSno/edit?usp=sharing)
+# Midterm - Python Programming
 
 ***
 
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- The program uses the turtle module to graph the sin, cos, and tan functions. The turtle is reset to the left side of the graph after each function is plotted. 
+What did you clean up?: I cleaned up my code by making the function parameters default values rather than hard-coded values to make the functions more reusable. I also fixed/added the docstrings to all of my functions.
 
-## GRACE DAYS
-Grace days used for this assignment: 0
+Summary of function(s) added: The function I added (title()) adds a title to the top of the graph using the turtle's write function. It also increases the size of the screen to separate the graph from the title.
 
-Grace days remaining: 5/5
+Summary of Feature Added: Similar to above, adds a title to the graph, zooms out to see the entire graph and title more easily
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
  None
 
 ## REFERENCES:
- None
+ Python Docs
 
 ## MISCELLANEOUS COMMENTS:
  None
+
