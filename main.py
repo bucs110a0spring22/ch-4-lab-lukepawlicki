@@ -120,7 +120,7 @@ def main():
     drawSineCurve(dart)
     drawCosineCurve(dart)
     graph_title = title(dart,wn, title='Sine and Cosine Graph')
-    print('This is the',graph_title, 'with x values ranging from -360 to 360 degrees.' )
+    print('This is the',graph_title, 'with x values ranging from -360 to +360 degrees.' )
     wn.exitonclick()
 main()
 
